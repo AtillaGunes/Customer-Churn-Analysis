@@ -26,13 +26,13 @@ Size: 7,043 rows(customers),
 
 ## 3.Data Cleaning Summary ##
 
-Removed irrevelant columns in Excel
+Removed irrevelant columns. 
 
-Dropped columns with too many missing or irrelevant values in Excei
+Dropped columns with too many missing or irrelevant values. 
 
-Removed empty strings from TotalCharges in PostgreSql
+Removed empty strings from TotalCharges. 
 
-Casted TotalCharges to numeric in PostgreSql
+Casted TotalCharges to numeric.
 
 
 
