@@ -56,7 +56,7 @@ ORDER BY churn_rate DESC
 
 As the duration of the contract increases, the churn rate decreases significantly.
 
-### 4.2 Churn Rate By Tenure ###
+### 4.2 Churn Rate By Tenure Segments ###
 
 
 ```sql
